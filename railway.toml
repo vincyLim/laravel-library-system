@@ -1,9 +1,0 @@
-[build]
-builder = "nixpacks"
-
-[deploy]
-startCommand = "./start.sh"
-
-[variables]
-APP_ENV = "production"
-LOG_CHANNEL = "stderr"
