@@ -9,7 +9,7 @@
     <style>
         .login-container {
             min-height: 100vh;
-            background-image: url('{{ asset("images/loginBG.jpg") }}'); /* need to add background image */
+            background-image: url('{{ asset("images/LoginBG.jpg") }}'); /* need to add background image */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
